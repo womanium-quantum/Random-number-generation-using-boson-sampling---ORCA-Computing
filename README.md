@@ -1,6 +1,12 @@
 
-<h2 align="center"> Womanium Quantum Hackathon 2022 </h2>
-<h1 align="center"> Random Number Generation Using Boson Sampling by *Orca Computing</h1>
+<h3 align="center"> Womanium Quantum Hackathon 2022 </h3>
+<h2 align="center"> Random Number Generation Using Boson Sampling by Orca Computing</h2>
+
+
+### Team Name: _Random Qubits_
+
+#### Members: 
+
 
 
 
