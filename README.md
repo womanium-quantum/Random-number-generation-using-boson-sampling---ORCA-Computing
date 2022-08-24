@@ -32,7 +32,7 @@ After generating the samples, we apply the post-processing part, which is the Vo
 * if we had the digit 1 in the first sample and the digit 0 in the second, the final result would be the digit 0 
 * if we had the digit 0 in the first sample and the digit 1 in the second, the final result would be the digit 1
 
-All the code were implemented in Python programming language using the Strawberry fields library. We have simulated the samples both locally and in the Xanadu quantum computer. The output of our program is a sample with 8 random bits. 
+All the code were implemented in Python programming language using the **Strawberry fields** library. We have simulated the samples both locally and in the Xanadu quantum computer. The output of our program is a sample with 8 random bits. 
 
 Finally, we tested our samples using an entropy test and we conclude that with increasing number of bits in a string of one sample entropy will improve. 
 
