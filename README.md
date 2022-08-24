@@ -10,7 +10,7 @@
 |   **Name**| **Soubhadra Maiti**                      | **Owais Ishtiaq Siddiqui** | **Suzielli Mendonça** | **Zeynep Kılıç**          |
 |----------------|------------------------------------------|----------------------------|-----------------------|---------------------------|
 | **Discord ID** | Soubhadra_Maiti#2170                     | owaisishtiaqsiddiqui#4549  | Suzielli#5080         | paperfrog#7510            |
-| **GitHub ID**  | SouPhyzics                               | owaisishtiaqsiddiqui#4549  | Suzielli-m            | paperfrogs                | 
+| **GitHub ID**  | SouPhyzics                               | owaisishtiaqsiddiqui       | Suzielli-m            | paperfrogs                | 
 | **E-mail**     | soubhadra.maiti@students.iiserpune.ac.in | owaisishtiaq15@gmail.com   | suzielli@usp.br       | zeynepkilic3663@gmail.com |   
 
 ##### Team Name: Random Qubits 
@@ -20,33 +20,12 @@
 
 In this challenge we had to build some kind of application that could generate random numbers using a quantum computing device called a boson sampler.  
 
-We were able to simulate a quantum random number generator using Strawberry fields package. Firstly, we have defined a function called qrng_func(). In the function we define the number of nodes and initializes Fock states. Rotation gates are applied to each mode and the resulting rotation in the phase space occurs in the anticlockwise direction, with angle 
-𝜙
-𝜙
- 
-. 
+We were able to simulate a quantum random number generator using Strawberry fields package. Firstly, we have defined a function called _qrng_func()_. In the function we define the number of nodes and initializes Fock states. Rotation gates are applied to each mode and the resulting rotation in the phase space occurs in the anticlockwise direction, with angle 𝜙. 
 
-The array of Beamsplitter by using the BSgate operator with arguments (
-𝜃
-𝜃
- 
-,
-𝜙
-𝜙
- 
-)  
+The array of Beamsplitter by using the BSgate operator with arguments (𝜃,𝜙)  
 
-Transmitted amplitude is represented by cos
-𝜃
-𝜃
- 
- 
-
-Reflection amplitude is given by 
-𝑒𝜄𝜙sin𝜃
-e𝜄𝜙sin⁡𝜃
- 
-. 
+* Transmitted amplitude is represented by cos(𝜃)
+* Reflection amplitude is given by $𝑒i𝜙sin𝜃$
 
 The rotation gate and beamsplitters parameters are chosen by default (i.e. 
 𝜋4
