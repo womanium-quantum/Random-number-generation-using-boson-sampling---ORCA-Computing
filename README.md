@@ -13,11 +13,10 @@
 | **GitHub ID**  | SouPhyzics                               | owaisishtiaqsiddiqui#4549  | Suzielli-m            | paperfrogs                | 
 | **E-mail**     | soubhadra.maiti@students.iiserpune.ac.in | owaisishtiaq15@gmail.com   | suzielli@usp.br       | zeynepkilic3663@gmail.com |   
 
+##### Team Name: Random Qubits 
+##### Pitch Presenter: Owais Ishtiaq Siddiqui
 
-### Team Name: _Random Qubits_
-#### Pitch Presenter: _Owais Ishtiaq Siddiqui_
-
-Our Solution	 
+### Our Solution	 
 
 In this challenge we had to build some kind of application that could generate random numbers using a quantum computing device called a boson sampler.  
 
@@ -65,9 +64,9 @@ if we had the digit 1 in the first sample and the digit 0 in the second, the fin
 
 if we had the digit 0 in the first sample and the digit 1 in the second, the final result would be the digit 1. 
 
-All the codes were implemented in Python programming language using the Strawberry fields library. We have simulated the samples both locally and in the Xanadu quantum computer. The output of our program is a sample with 8 random bits. 
+All the code were implemented in Python programming language using the Strawberry fields library. We have simulated the samples both locally and in the Xanadu quantum computer. The output of our program is a sample with 8 random bits. 
 
-Finally we tested our samples u 
+Finally, we tested our samples using an entropy test and we conclude that with increasing number of bits in a string of one sample entropy will improve. 
 
  
 
@@ -82,45 +81,9 @@ One way of performing this test is by using the Scikit-Learn Python library. Ins
 and ones to label the data in the dataset as “test” or “train”. For instance, one could define that the zeros represent a test data and the ones represent train data. Let’s consider the following dataset  
 
  
-
-0 
-
-1 
-
-2 
-
-3 
-
-4 
-
-5 
-
-6 
-
-7 
-
-Table 1: A dataset example 
-
-1 
-
-0 
-
-1 
-
-0 
-
-0 
-
-1 
-
-1 
-
-0 
-
-Table 2: A random sample example 
-
- 
-
+<p align="center">
+  <img style="float: right;" src="table.png" width="350">
+</p>
  
 
 All the numbers from the dataset example marked in the yellow color would be chosen to be in the test subset (according to the random sample) and all the numbers marked in the green color would be in the train subset. 
