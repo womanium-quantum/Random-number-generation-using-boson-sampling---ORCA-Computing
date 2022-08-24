@@ -53,4 +53,4 @@ Our proposal stands out as a fast and simple way of using real random numbers in
 
 ### References 
 
-[1] Shi, J., Zhao, T., Wang, Y., Yu, C., Lu, Y., Shi, R., ... & Wu, J. (2022). An Unbiased Quantum Random Number Generator Based on Boson Sampling. arXiv preprint arXiv:2206.02292. 
+**[1]** Shi, J., Zhao, T., Wang, Y., Yu, C., Lu, Y., Shi, R., ... & Wu, J. (2022). An Unbiased Quantum Random Number Generator Based on Boson Sampling. arXiv preprint arXiv:2206.02292. 
