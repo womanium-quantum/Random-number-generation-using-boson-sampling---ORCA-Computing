@@ -24,14 +24,10 @@ We were able to simulate a quantum random number generator using Strawberry fiel
 
 The array of Beamsplitter by using the BSgate operator with arguments (𝜃,𝜙)  
 
-* Transmitted amplitude is represented by cos(𝜃)
-* Reflection amplitude is given by $𝑒i𝜙sin𝜃$
+* Transmitted amplitude is represented by $cos(𝜃)$
+* Reflection amplitude is given by $e^{i𝜙sin𝜃}$
 
-The rotation gate and beamsplitters parameters are chosen by default (i.e. 
-𝜋4
-𝜋4
- 
-). 
+The rotation gate and beamsplitters parameters are chosen by default (i.e. the $$\frac{𝜋}{4}$$ ). 
 
  
 
