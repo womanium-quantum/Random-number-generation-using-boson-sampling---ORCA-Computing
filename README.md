@@ -2,21 +2,20 @@
 <h3 align="center"> Womanium Quantum Hackathon 2022 </h3>
 <h2 align="center"> Random Number Generation Using Boson Sampling by Orca Computing</h2>
 
-### Team Name: _Random Qubits_
-
 <p align="center">
   <img style="float: right;" src="LogoNarrow.png" width="350">
 </p>
 
-#### Members: 
-|    | **Soubhadra Maiti**                      | **Owais Ishtiaq Siddiqui** | **Suzielli Mendonça** | **Zeynep Kılıç**          |
+
+|   **Name**| **Soubhadra Maiti**                      | **Owais Ishtiaq Siddiqui** | **Suzielli Mendonça** | **Zeynep Kılıç**          |
 |----------------|------------------------------------------|----------------------------|-----------------------|---------------------------|
 | **Discord ID** | Soubhadra_Maiti#2170                     | owaisishtiaqsiddiqui#4549  | Suzielli#5080         | paperfrog#7510            |
 | **GitHub ID**  | SouPhyzics                               | owaisishtiaqsiddiqui#4549  | Suzielli-m            | paperfrogs                | 
 | **E-mail**     | soubhadra.maiti@students.iiserpune.ac.in | owaisishtiaq15@gmail.com   | suzielli@usp.br       | zeynepkilic3663@gmail.com |   
 
 
-
+### Team Name: _Random Qubits_
+#### Pitch Presenter: _Owais Ishtiaq Siddiqui_
 
 Our Solution	 
 
